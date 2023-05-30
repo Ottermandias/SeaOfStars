@@ -1,0 +1,28 @@
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 19
+      - name: Run generator
+        run: node index.js
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git fetch origin main
+          git checkout main
+          git add repo.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update repository"
+          git push
