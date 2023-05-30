@@ -51,7 +51,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 
 ## [Mare Synchronos](https://github.com/Penumbra-Sync/client)
 - A plugin to synchronize and download mods and appearances between friends automatically. 
-- Developed by DarkArchon. 
+- Developed by darkarchon. 
 - Support can be found on [Mares Discord](https://discord.gg/5HVveFefcB).
 - This plugin requires Penumbra and Glamourer, and interfaces with Customize+, Palette+, SimpleHeels and the Dalamud-official-repo plugin Honorific.
 
