@@ -1,6 +1,7 @@
 # Sea of Stars
 
-This suite collects modding-, customization- and posing-related Dalamud plugins for FFXIV. 
+This suite collects modding-, customization- and posing-related Dalamud plugins for FFXIV.
+
 All contained plugins have agreed to be hosted in this collection - Sea of Stars also does not provide any plugins itself, it just provides combined access to them in form of a single Dalamud Plugin Repository.
 
 ## Installing
