@@ -4,8 +4,8 @@
     "Name": "Penumbra",
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "0.7.1.2",
-    "TestingAssemblyVersion": "0.7.1.2",
+    "AssemblyVersion": "0.7.1.3",
+    "TestingAssemblyVersion": "0.7.1.3",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -16,12 +16,12 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.7.1.2/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.7.1.2/Penumbra.zip",
-    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.7.1.2/Penumbra.zip",
+    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.7.1.3/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.7.1.3/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.7.1.3/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
     "Tags": [
-      "unnamed-megarepo"
+      "Sea Of Stars"
     ]
   },
   {
@@ -40,7 +40,7 @@
       "Customization",
       "Design",
       "Character",
-      "unnamed-megarepo"
+      "Sea Of Stars"
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "0.1.2.1",
@@ -66,7 +66,7 @@
     "RepoUrl": "https://github.com/Penumbra-Sync/client",
     "Tags": [
       "customization",
-      "unnamed-megarepo"
+      "Sea Of Stars"
     ],
     "DalamudApiLevel": 8,
     "LoadPriority": 0,
@@ -100,34 +100,29 @@
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
     "Changelog": "0.0.1.8 -Fixed Potential Crash issue by Alex",
     "Tags": [
-      "unnamed-megarepo"
+      "Sea Of Stars"
     ]
   },
   {
-    "Author": "LeonBlade",
-    "Name": "Heels Plugin",
-    "Description": "Offsets your character off the ground for when wearing heels.",
-    "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.3.4",
-    "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+    "Author": "Caraxi",
+    "Name": "Simple Heels",
+    "InternalName": "SimpleHeels",
+    "Description": "Adjust the position of your character model",
+    "Punchline": "Adjust the position of your character model",
+    "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+    "AssemblyVersion": "0.1.3.3",
     "ApplicableVersion": "any",
-    "Tags": [
-      "heels",
-      "high heels",
-      "height",
-      "offset",
-      "leonblade",
-      "unnamed-megarepo"
-    ],
     "DalamudApiLevel": 8,
-    "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1684969454,
-    "DownloadCount": 11998,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
+    "DownloadCount": 0,
+    "LastUpdate": "1684544998",
+    "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.1.3.3.zip",
+    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.1.3.3.zip",
+    "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.1.3.3.zip",
+    "Tags": [
+      "Sea Of Stars"
+    ]
   },
   {
     "Author": "Chirp",
@@ -145,7 +140,7 @@
       "color",
       "palette",
       "chirp",
-      "unnamed-megarepo"
+      "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/chirpxiv/PalettePlus/raw/main/icon.png",
     "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.9/latest.zip",
@@ -180,7 +175,50 @@
       "modding",
       "penumbra",
       "textools",
-      "unnamed-megarepo"
+      "Sea Of Stars"
+    ]
+  },
+  {
+    "Author": "Chirp",
+    "Name": "Ktisis",
+    "InternalName": "Ktisis",
+    "Description": "A robust posing tool for creating screenshots in GPose.",
+    "AssemblyVersion": "0.2.8",
+    "TestingAssemblyVersion": "0.2.8",
+    "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "Tags": [
+      "gpose",
+      "posing",
+      "ktisis",
+      "Sea Of Stars"
+    ],
+    "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.8/latest.zip"
+  },
+  {
+    "Author": "Asgard",
+    "Name": "Brio",
+    "Description": "Control actors during GPose sessions.",
+    "InternalName": "Brio",
+    "AssemblyVersion": "0.1.8.6",
+    "TestingAssemblyVersion": "0.1.8.6",
+    "RepoUrl": "https://github.com/AsgardXIV/Brio",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.6/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.6/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.6/Brio.zip",
+    "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
+    "Tags": [
+      "gpose",
+      "brio",
+      "posing",
+      "animation",
+      "Sea Of Stars"
     ]
   }
 ]
