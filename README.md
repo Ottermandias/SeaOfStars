@@ -58,7 +58,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Ktisis](https://github.com/ktisis-tools/Ktisis)
 - A plugin to manipulate your character and their positioning, stance and animation while posing in GPose. 
 - Developed mainly by Chirp. 
-- Support can be found on [Discord](https://discord.gg/ktisis).
+- Support can be found on [Ktisis' Discord](https://discord.gg/ktisis).
 
 ## [Brio](https://github.com/AsgardXIV/Brio)
 - A plugin to create additional characters and give you more options during posing in GPose. 
