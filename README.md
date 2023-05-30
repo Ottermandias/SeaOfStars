@@ -7,11 +7,10 @@ All contained plugins have agreed to be hosted in this collection - Sea of Stars
 ## Installing
 - Enter `/xlsettings` in the chat window and go to the Experimental tab in the opening window.
 - **Skip below the DevPlugins section to the Custom Plugin Repositories section.**
-- Copy and paste the repo.json link 
+- Copy and paste the repo.json link into the first free text input field.
 ```
 https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json
 ```
-into the first free text input field.
 - Click on the + button and make sure the checkmark beside the new field is set afterwards.
 - **Click on the Save-icon in the bottom right.**
 
