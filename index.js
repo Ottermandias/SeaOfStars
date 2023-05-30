@@ -56,7 +56,7 @@ async function main() {
   }
 
   fs.writeFileSync("./repo.json", JSON.stringify(final, null, 2));
-  console.log(`Wrote ${final.length} plugins to repo.json:\n${JSON.stringify(final, null, 2)}`);
+  console.log(`Wrote ${final.length} plugins to repo.json.`);
 }
 
 main();
