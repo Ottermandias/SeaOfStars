@@ -95,10 +95,10 @@
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/t0.0.1.81/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "0.0.1.8 -Fixed Potential Crash issue by Alex",
+    "Changelog": "0.0.1.9 \n-Added Dalamud Filepicker to not screw with the game\n-Added IPC Version check in preperation for 0.0.2.0 by Alex",
     "Tags": [
       "Sea Of Stars"
     ]
