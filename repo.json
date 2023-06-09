@@ -150,7 +150,7 @@
   {
     "AcceptsFeedback": true,
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.13.2.0",
+    "AssemblyVersion": "1.13.3.0",
     "Author": "Anna",
     "CanUnloadAsync": false,
     "Changelog": "- Add better diagnostic information to errors",
@@ -163,7 +163,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1686252356,
+    "LastUpdate": 1686340048,
     "LoadPriority": 0,
     "LoadRequiredState": 0,
     "LoadSync": false,
