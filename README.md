@@ -47,6 +47,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [SimpleHeels](https://github.com/Caraxi/SimpleHeels)
 - A plugin to offset and adjust your characters height according when wearing specific shoes according to their heels. 
 - Developed by Caraxi, inspired by LeonBlade.
+- Support can be found on [Caraxi's Discord](https://discord.gg/eXx7HdMkrU).
 
 ## [Mare Synchronos](https://github.com/Penumbra-Sync/client)
 - A plugin to synchronize and download mods and appearances between friends automatically. 
