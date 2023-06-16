@@ -85,7 +85,7 @@
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "0.0.1.9",
-    "TestingAssemblyVersion": "0.0.1.9",
+    "TestingAssemblyVersion": "0.0.2.0",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -95,10 +95,10 @@
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/tag/test_0.0.2.0/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "0.0.1.9 \n-Added Dalamud Filepicker to not screw with the game\n-Added IPC Version check in preperation for 0.0.2.0 by Alex",
+    "Changelog": "0.0.2.0 A LOT...",
     "Tags": [
       "Sea Of Stars"
     ]
