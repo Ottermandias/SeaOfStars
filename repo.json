@@ -95,7 +95,7 @@
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/tag/test_0.0.2.0/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/test_0.0.2.0/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
     "Changelog": "0.0.2.0 A LOT...",
