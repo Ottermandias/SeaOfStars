@@ -85,7 +85,7 @@
     "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "0.0.2.4",
+    "AssemblyVersion": "0.0.2.5",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -97,7 +97,7 @@
     "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "0.0.2.4 -The big rewrite! This update is essentially a full rewrite! Beneath the hood basically everything changed. HUGE Thanks to Dendroid, Alexsey and Darkarchon for all the work that went into this gigantic update!",
+    "Changelog": "0.0.2.5 -HOTFIX: Fixed A bug that caused EXOPLOSIONS! The big rewrite! This update is essentially a full rewrite! Beneath the hood basically everything changed. HUGE Thanks to Dendroid, Alexsey and Darkarchon for all the work that went into this gigantic update!",
     "Tags": [
       "Sea Of Stars"
     ]
