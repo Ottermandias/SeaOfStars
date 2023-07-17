@@ -85,8 +85,7 @@
     "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "0.0.1.91",
-    "TestingAssemblyVersion": "0.0.2.1",
+    "AssemblyVersion": "0.0.2.4",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -96,10 +95,9 @@
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/test_0.0.2.2/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "0.0.1.91 Posing mode compatibility thanks to Chirp! Enjoy Posing within Anamnesis and Ktisis with your scales intake!",
+    "Changelog": "0.0.2.4 -The big rewrite! This update is essentially a full rewrite! Beneath the hood basically everything changed. HUGE Thanks to Dendroid, Alexsey and Darkarchon for all the work that went into this gigantic update!",
     "Tags": [
       "Sea Of Stars"
     ]
