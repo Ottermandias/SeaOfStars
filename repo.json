@@ -149,7 +149,7 @@
   {
     "AcceptsFeedback": true,
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.16.1.0",
+    "AssemblyVersion": "1.16.2.0",
     "Author": "Anna",
     "CanUnloadAsync": false,
     "Changelog": "- Potentially fix an internal bug",
@@ -162,7 +162,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1690836806,
+    "LastUpdate": 1690907138,
     "LoadPriority": 0,
     "LoadRequiredState": 0,
     "LoadSync": false,
