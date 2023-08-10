@@ -61,7 +61,7 @@
     "Author": "darkarchon",
     "Name": "Mare Synchronos",
     "InternalName": "MareSynchronos",
-    "AssemblyVersion": "0.8.52",
+    "AssemblyVersion": "0.8.53",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Penumbra-Sync/client",
@@ -75,9 +75,9 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://files.maresynchronos.com/release/0.8.52.zip",
-    "DownloadLinkTesting": "https://files.maresynchronos.com/release/0.8.52.zip",
-    "DownloadLinkUpdate": "https://files.maresynchronos.com/release/0.8.52.zip"
+    "DownloadLinkInstall": "https://files.maresynchronos.com/release/0.8.53.zip",
+    "DownloadLinkTesting": "https://files.maresynchronos.com/release/0.8.53.zip",
+    "DownloadLinkUpdate": "https://files.maresynchronos.com/release/0.8.53.zip"
   },
   {
     "Author": "XIV Tools",
