@@ -75,9 +75,9 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://files.maresynchronos.com/release/0.8.53.zip",
-    "DownloadLinkTesting": "https://files.maresynchronos.com/release/0.8.53.zip",
-    "DownloadLinkUpdate": "https://files.maresynchronos.com/release/0.8.53.zip"
+    "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.8.53.zip",
+    "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.8.53.zip",
+    "DownloadLinkUpdate": "https://cf.maresynchronos.com/release/0.8.53.zip"
   },
   {
     "Author": "XIV Tools",
