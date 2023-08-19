@@ -149,7 +149,7 @@
   {
     "AcceptsFeedback": true,
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.17.5.0",
+    "AssemblyVersion": "1.17.6.0",
     "Author": "Anna",
     "CanUnloadAsync": false,
     "Changelog": "- Fix potential game freeze\n- Fix an issue where the installer would reject mods previously downloaded that session",
@@ -162,7 +162,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1692420242,
+    "LastUpdate": 1692420622,
     "LoadPriority": 0,
     "LoadRequiredState": 0,
     "LoadSync": false,
