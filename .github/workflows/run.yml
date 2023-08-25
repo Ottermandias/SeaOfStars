@@ -14,6 +14,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 19
+          cache: 'npm'
       - name: Run generator
         run: node index.js
       - name: Commit changes
