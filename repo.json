@@ -86,6 +86,7 @@
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "1.2.5.4",
+    "TestingAssemblyVersion": "1.2.5.5",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -95,9 +96,10 @@
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/test_1.2.5.5/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "Release 1.2.5.4 - Fixed Deletion of OG Profile on Duplicate.",
+    "Changelog": "Release 1.2.5.5 - Testing Gpose fix!",
     "Tags": [
       "Sea Of Stars"
     ]
