@@ -37,7 +37,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Customize+](https://github.com/XIV-Tools/CustomizePlus)
 - A plugin to scale your characters body parts according to your desires. 
 - Maintained by Stoia. 
-- Support can be found on [XIVTools Discord](https://discord.gg/xivtools).
+- Support can be found on [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
 
 ## [Palette+](https://github.com/chirpxiv/PalettePlus)
 - A plugin to improve color customization beyond the game-provided color options. 
@@ -63,4 +63,4 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Brio](https://github.com/AsgardXIV/Brio)
 - A plugin to create additional characters and give you more options during posing in GPose. 
 - Developed by Asgard. 
-- Support can be found on the [XIVTools Discord](https://discord.gg/xivtools).
+- Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
