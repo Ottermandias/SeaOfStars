@@ -42,7 +42,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Palette+](https://github.com/chirpxiv/PalettePlus)
 - A plugin to improve color customization beyond the game-provided color options. 
 - Developed by Chirp. 
-- Support can be found on [Ktisis' Discord](https://discord.gg/ktisis).
+- Support can be found on [Ktisis' Discord](https://discord.gg/kUG3W8B8Ny).
 
 ## [SimpleHeels](https://github.com/Caraxi/SimpleHeels)
 - A plugin to offset and adjust your characters height according when wearing specific shoes according to their heels. 
@@ -58,7 +58,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Ktisis](https://github.com/ktisis-tools/Ktisis)
 - A plugin to manipulate your character and their positioning, stance and animation while posing in GPose. 
 - Developed mainly by Chirp. 
-- Support can be found on [Ktisis' Discord](https://discord.gg/ktisis).
+- Support can be found on [Ktisis' Discord](https://discord.gg/kUG3W8B8Ny).
 
 ## [Brio](https://github.com/AsgardXIV/Brio)
 - A plugin to create additional characters and give you more options during posing in GPose. 
