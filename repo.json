@@ -131,11 +131,11 @@
     "InternalName": "PalettePlus",
     "Punchline": "Custom color palettes for FFXIV characters.",
     "Description": "Custom color palettes for FFXIV characters.",
-    "AssemblyVersion": "0.3.10",
-    "TestingAssemblyVersion": "0.3.10",
+    "AssemblyVersion": "0.3.11",
+    "TestingAssemblyVersion": "0.3.11",
     "RepoUrl": "https://github.com/chirpxiv/PalettePlus",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "Tags": [
       "PalettePlus",
       "color",
@@ -144,9 +144,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/chirpxiv/PalettePlus/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.10/latest.zip",
-    "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.10/latest.zip"
+    "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.11/latest.zip",
+    "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.11/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.11/latest.zip"
   },
   {
     "AcceptsFeedback": true,
@@ -184,11 +184,11 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.",
-    "AssemblyVersion": "0.2.18.1",
-    "TestingAssemblyVersion": "0.2.18.1",
+    "AssemblyVersion": "0.2.19",
+    "TestingAssemblyVersion": "0.2.19",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "Tags": [
       "gpose",
       "posing",
@@ -196,9 +196,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.18.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.18.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.18.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip"
   },
   {
     "Author": "Asgard",
