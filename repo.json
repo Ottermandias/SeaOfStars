@@ -85,8 +85,8 @@
     "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "1.2.5.9",
-    "TestingAssemblyVersion": "1.2.5.9",
+    "AssemblyVersion": "1.2.6.0",
+    "TestingAssemblyVersion": "1.2.6.0",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -99,7 +99,7 @@
     "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "Release 1.2.5.9 - Added the ability to use <me> and <t> and their equivalent 'self' and 'target' in commands as you would use them with Penumbra.",
+    "Changelog": "Release 1.2.6.0 - MCDF Scale import is here! Thanks to Cazzar.",
     "Tags": [
       "Sea Of Stars"
     ]
