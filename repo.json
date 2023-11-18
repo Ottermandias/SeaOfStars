@@ -5,7 +5,7 @@
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Penumbra",
     "AssemblyVersion": "0.8.1.8",
-    "TestingAssemblyVersion": "0.8.1.9",
+    "TestingAssemblyVersion": "0.8.1.10",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -17,7 +17,7 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.8.1.8/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_0.8.1.9/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_0.8.1.10/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.8.1.8/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
     "Tags": [
@@ -44,7 +44,7 @@
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.0.5.0",
-    "TestingAssemblyVersion": "1.0.5.2",
+    "TestingAssemblyVersion": "1.0.5.3",
     "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -54,7 +54,7 @@
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.5.0/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.5.0/Glamourer.zip",
-    "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.0.5.2/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.0.5.3/Glamourer.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   },
   {
