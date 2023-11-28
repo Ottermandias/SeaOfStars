@@ -27,7 +27,7 @@ async function doRepo(url, plugins) {
       headers: {
               'user-agent': 'SeaOfStars/1.0.0',
       },
-  }.then((res) => res.json());
+  }).then((res) => res.json());
 
   for (const internalName of plugins) {
     const plugin = repo.find((x) => x.InternalName === internalName);
