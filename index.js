@@ -23,7 +23,11 @@ async function recoverPlugin(internalName) {
 
 async function doRepo(url, plugins) {
   console.log(`Fetching ${url}...`);
-  const repo = await fetch(url).then((res) => res.json());
+  const repo = await fetch(url, {
+      headers: {
+              'user-agent': 'SeaOfStars/1.0.0',
+      },
+  }.then((res) => res.json());
 
   for (const internalName of plugins) {
     const plugin = repo.find((x) => x.InternalName === internalName);
