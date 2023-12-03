@@ -43,7 +43,9 @@ async function doRepo(url, plugins) {
     const tags = plugin.Tags || [];
     tags.push(extraTag);
     plugin.Tags = tags;
-
+    if (plugin.DownloadCount !== undefined) {
+      delete plugin.DownloadCount;
+    }
     final.push(plugin);
   }
 }
