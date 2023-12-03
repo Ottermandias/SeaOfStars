@@ -16,7 +16,9 @@ async function recoverPlugin(internalName) {
     console.error(`!!! ${plugin} not found in old repo`);
     process.exit(1);
   }
-
+  if (plugin.DownloadCount !== undefined) {
+    delete plugin.DownloadCount;
+  }
   final.push(plugin);
   console.log(`Recovered ${internalName} from last manifest`);
 }
