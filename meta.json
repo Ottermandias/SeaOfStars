@@ -24,15 +24,31 @@
     "plugins": ["PalettePlus"]
   },
   {
-    "repo": "https://repo.heliosphere.app",
-    "plugins": ["heliosphere-plugin"]
-  },
-  {
     "repo": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
     "plugins": ["Ktisis"]
   },
   {
     "repo": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/repo.json",
     "plugins": ["Brio"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
+    "plugins": ["BDTHPlugin"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/AsgardXIV/XAT/main/repo.json",
+    "plugins": ["XAT.Plugin"]
+  },
+  {
+    "repo": "https://love.puni.sh/ment.json",
+    "plugins": ["Artisan"]
+  },
+  {
+    "repo": "https://love.puni.sh/ment.json",
+    "plugins": ["AutoRetainer"]
+  },
+  {
+    "repo": "https://puni.sh/api/repository/veyn",
+    "plugins": ["visland"]
   }
 ]
