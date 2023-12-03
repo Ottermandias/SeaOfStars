@@ -16,6 +16,7 @@ async function recoverPlugin(internalName) {
     console.error(`!!! ${plugin} not found in old repo`);
     process.exit(1);
   }
+  // Deletes the DownloadCount line
   if (plugin.DownloadCount !== undefined) {
     delete plugin.DownloadCount;
   }
@@ -43,6 +44,7 @@ async function doRepo(url, plugins) {
     const tags = plugin.Tags || [];
     tags.push(extraTag);
     plugin.Tags = tags;
+    // Deletes the DownloadCount line
     if (plugin.DownloadCount !== undefined) {
       delete plugin.DownloadCount;
     }
