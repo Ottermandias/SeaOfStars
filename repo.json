@@ -145,37 +145,6 @@
     "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.13/latest.zip"
   },
   {
-    "AcceptsFeedback": true,
-    "ApplicableVersion": "any",
-    "AssemblyVersion": "1.20.4.0",
-    "Author": "Anna",
-    "CanUnloadAsync": false,
-    "Changelog": "- Fix crash at login when update check errors",
-    "DalamudApiLevel": 9,
-    "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Partial downloads to get only the features you want\n- Automatic updates\n- Version history\n- Mod changelogs\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
-    "DownloadLinkInstall": "https://repo.heliosphere.app/latest.zip",
-    "DownloadLinkTesting": "https://repo.heliosphere.app/latest.zip",
-    "DownloadLinkUpdate": "https://repo.heliosphere.app/latest.zip",
-    "IconUrl": "https://repo.heliosphere.app/icon.png",
-    "InternalName": "heliosphere-plugin",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdate": 1701065176,
-    "LoadPriority": 0,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "Name": "Heliosphere",
-    "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
-    "RepoUrl": "https://heliosphere.app/",
-    "Tags": [
-      "mods",
-      "modding",
-      "penumbra",
-      "textools",
-      "Sea Of Stars"
-    ]
-  },
-  {
     "Author": "Chirp",
     "Name": "Ktisis",
     "InternalName": "Ktisis",
@@ -217,5 +186,118 @@
       "animation",
       "Sea Of Stars"
     ]
+  },
+  {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "Description": "Move around housing items with coordinates and allows you to place anywhere.",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.6.1",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade",
+      "Sea Of Stars"
+    ],
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1696380899,
+    "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip"
+  },
+  {
+    "Author": "Asgard",
+    "Name": "XAT",
+    "Description": "Create and edit animations and cutscenes",
+    "InternalName": "XAT.Plugin",
+    "AssemblyVersion": "2023.10.3.2301",
+    "TestingAssemblyVersion": "2023.10.3.2301",
+    "RepoUrl": "https://github.com/AsgardXIV/XAT",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
+    "DownloadLinkTesting": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
+    "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/XAT/master/Resources/Images/XATIcon.png",
+    "Tags": [
+      "Sea Of Stars"
+    ]
+  },
+  {
+    "Author": "Taurenkey",
+    "Name": "Artisan",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Description": "The all-in-one crafting plugin.",
+    "Tags": [
+      "crafting",
+      "Sea Of Stars"
+    ],
+    "InternalName": "Artisan",
+    "RepoUrl": "https://github.com/PunishXIV/Artisan",
+    "LastUpdate": 1701446932246,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+    "AssemblyVersion": "2.1.1.7",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "- Adds new \"Progress Priority CP Threshold\" under solver settings.\n- Attempt to fix FPS issues with the list editor on the ingredients tab.",
+    "TestingAssemblyVersion": "2.1.1.2",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+  },
+  {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "AutoRetainer",
+    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Tags": [
+      "Sea Of Stars"
+    ],
+    "InternalName": "AutoRetainer",
+    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+    "LastUpdate": 1700791334364,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+    "AssemblyVersion": "4.2.2.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "TestingAssemblyVersion": "4.2.3.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+  },
+  {
+    "Author": "veyn",
+    "Name": "V(ery) Island",
+    "Punchline": "Automate island sanctuary activities",
+    "Description": "Automate gathering, workshop assignments, etc.",
+    "Tags": [
+      "Sea Of Stars"
+    ],
+    "InternalName": "visland",
+    "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+    "LastUpdate": 1700558567430,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+    "AssemblyVersion": "0.0.0.48",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
   }
 ]
