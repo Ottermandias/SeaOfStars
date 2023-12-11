@@ -4,8 +4,8 @@
     "Name": "Penumbra",
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Penumbra",
-    "AssemblyVersion": "0.8.2.1",
-    "TestingAssemblyVersion": "0.8.2.3",
+    "AssemblyVersion": "0.8.3.0",
+    "TestingAssemblyVersion": "0.8.3.0",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -15,9 +15,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.8.2.1/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_0.8.2.3/Penumbra.zip",
-    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.8.2.1/Penumbra.zip",
+    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.8.3.0/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.8.3.0/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.8.3.0/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
     "Tags": [
       "Sea Of Stars"
@@ -59,7 +59,7 @@
     "Author": "darkarchon",
     "Name": "Mare Synchronos",
     "InternalName": "MareSynchronos",
-    "AssemblyVersion": "0.9.19",
+    "AssemblyVersion": "0.9.21",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Penumbra-Sync/client",
@@ -73,9 +73,9 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.9.19.zip",
-    "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.9.19.zip",
-    "DownloadLinkUpdate": "https://cf.maresynchronos.com/release/0.9.19.zip"
+    "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.9.21.zip",
+    "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.9.21.zip",
+    "DownloadLinkUpdate": "https://cf.maresynchronos.com/release/0.9.21.zip"
   },
   {
     "Author": "XIV Tools",
@@ -108,15 +108,15 @@
     "Description": "Adjust the position of your character model",
     "Punchline": "Adjust the position of your character model",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-    "AssemblyVersion": "0.8.3.0",
+    "AssemblyVersion": "0.8.4.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": "1697302121",
-    "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.3.0.zip",
-    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.3.0.zip",
-    "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.3.0.zip",
+    "LastUpdate": "1702079291",
+    "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.0.zip",
+    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.0.zip",
+    "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.0.zip",
     "Tags": [
       "Sea Of Stars"
     ]
@@ -256,7 +256,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "- Adds new \"Progress Priority CP Threshold\" under solver settings.\n- Attempt to fix FPS issues with the list editor on the ingredients tab.",
-    "TestingAssemblyVersion": "2.1.1.2",
+    "TestingAssemblyVersion": "2.1.2.2",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
   },
@@ -277,7 +277,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
-    "TestingAssemblyVersion": "4.2.3.1",
+    "TestingAssemblyVersion": "4.2.3.4",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
