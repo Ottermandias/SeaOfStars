@@ -149,8 +149,8 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.",
-    "AssemblyVersion": "0.2.19",
-    "TestingAssemblyVersion": "0.2.19",
+    "AssemblyVersion": "0.2.21",
+    "TestingAssemblyVersion": "0.2.21",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -161,9 +161,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.21/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.21/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.21/latest.zip"
   },
   {
     "Author": "Asgard",
@@ -277,7 +277,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
-    "TestingAssemblyVersion": "4.2.3.4",
+    "TestingAssemblyVersion": "4.2.3.9",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
