@@ -83,8 +83,8 @@
     "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "1.2.6.1",
-    "TestingAssemblyVersion": "1.2.6.1",
+    "AssemblyVersion": "1.2.6.2",
+    "TestingAssemblyVersion": "1.2.6.2",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -96,7 +96,7 @@
     "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "Release 1.2.6.1 - All the Mare fixes! Should work inside GPose and MCDFs now!",
+    "Changelog": "Release 1.2.6.2 - Happy New Year! Added IPC to get all Profiles thanks to Limiana.",
     "Tags": [
       "Sea Of Stars"
     ]
