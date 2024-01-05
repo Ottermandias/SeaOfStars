@@ -117,7 +117,6 @@
     "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.1.zip",
     "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.1.zip",
     "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.1.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png",
     "Tags": [
       "Sea Of Stars"
     ]
@@ -172,14 +171,14 @@
     "Punchline": "Enhanced GPosing.",
     "Description": "Control actors during GPose sessions.",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.2.0.13",
-    "TestingAssemblyVersion": "0.2.0.13",
+    "AssemblyVersion": "0.2.1.8",
+    "TestingAssemblyVersion": "0.2.1.8",
     "RepoUrl": "https://github.com/AsgardXIV/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.13/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.13/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.13/Brio.zip",
+    "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.1.8/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.1.8/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.1.8/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -258,7 +257,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "- Adds new \"Progress Priority CP Threshold\" under solver settings.\n- Attempt to fix FPS issues with the list editor on the ingredients tab.",
-    "TestingAssemblyVersion": "2.1.2.14",
+    "TestingAssemblyVersion": "2.1.2.16",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
   },
@@ -293,13 +292,35 @@
     ],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "LastUpdate": 1701888595978,
+    "LastUpdate": 1704385741701,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-    "AssemblyVersion": "0.0.0.49",
+    "AssemblyVersion": "0.0.0.52",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
     "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "AntiAfkKick",
+    "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+    "Description": "",
+    "InternalName": "AntiAfkKick-Dalamud",
+    "AssemblyVersion": "2.1.0.5",
+    "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/latest.zip",
+    "LastUpdated": "0",
+    "Tags": [
+      "Sea Of Stars"
+    ]
   }
 ]
