@@ -50,5 +50,9 @@
   {
     "repo": "https://puni.sh/api/repository/veyn",
     "plugins": ["visland"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+    "plugins": ["AntiAfkKick-Dalamud"]
   }
 ]
