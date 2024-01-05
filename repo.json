@@ -117,6 +117,7 @@
     "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.1.zip",
     "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.1.zip",
     "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.1.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png",
     "Tags": [
       "Sea Of Stars"
     ]
