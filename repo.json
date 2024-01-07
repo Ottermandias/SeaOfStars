@@ -78,30 +78,6 @@
     "DownloadLinkUpdate": "https://cf.maresynchronos.com/release/0.9.23.zip"
   },
   {
-    "Author": "XIV Tools",
-    "Name": "Customize+",
-    "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
-    "Punchline": "Customize your character beyond FFXIV's limitations.",
-    "InternalName": "CustomizePlus",
-    "AssemblyVersion": "1.2.6.9",
-    "TestingAssemblyVersion": "1.2.6.9",
-    "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": 0,
-    "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "Release 1.2.6.9 - Please open the Interface!",
-    "Tags": [
-      "Sea Of Stars"
-    ]
-  },
-  {
     "Author": "Caraxi",
     "Name": "Simple Heels",
     "InternalName": "SimpleHeels",
