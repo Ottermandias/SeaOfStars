@@ -12,10 +12,6 @@
     "plugins": ["MareSynchronos"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json",
-    "plugins": ["CustomizePlus"]
-  },
-  {
     "repo": "https://repo.caraxian.com",
     "plugins": ["SimpleHeels"]
   },

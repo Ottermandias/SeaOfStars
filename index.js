@@ -1,7 +1,6 @@
 const fs = require("fs");
 
 const extraTag = "Sea Of Stars";
-const extraIcon = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
