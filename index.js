@@ -46,9 +46,8 @@ async function doRepo(url, plugins) {
     tags.push(extraTag);
     plugin.Tags = tags;
     // Icon Inject
-    const ico = plugin.IconUrl || [];
-    ico.push(extraIcon);
-    plugin.internalName("SimpleHeels") = ico;
+    //const ico = plugin.IconUrl || [];
+    plugin.internalName("SimpleHeels") = extraIcon;
     // Deletes the DownloadCount line
     if (plugin.DownloadCount !== undefined) {
       delete plugin.DownloadCount;
