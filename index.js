@@ -1,6 +1,7 @@
 const fs = require("fs");
 
 const extraTag = "Sea Of Stars";
+const extraIcon = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
@@ -44,6 +45,10 @@ async function doRepo(url, plugins) {
     const tags = plugin.Tags || [];
     tags.push(extraTag);
     plugin.Tags = tags;
+    // Icon Inject
+    const ico = plugin.IconUrl || [];
+    ico.push(extraIcon);
+    plugin.internalName("SimpleHeels") = ico;
     // Deletes the DownloadCount line
     if (plugin.DownloadCount !== undefined) {
       delete plugin.DownloadCount;
