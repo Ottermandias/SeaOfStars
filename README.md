@@ -34,7 +34,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Support can be found on [Penumbras Discord](https://discord.gg/kVva7DHV4r).
 - This plugin requires Penumbra.
 
-## [Customize+](https://github.com/XIV-Tools/CustomizePlus)
+## [Customize+](https://github.com/Aether-Tools/CustomizePlus)
 - A plugin to scale your characters body parts according to your desires. 
 - Maintained by Stoia. 
 - Support can be found on [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
