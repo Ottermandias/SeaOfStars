@@ -12,7 +12,7 @@
     "plugins": ["MareSynchronos"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json",
+    "repo": "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
     "plugins": ["CustomizePlus"]
   },
   {
