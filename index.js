@@ -47,7 +47,7 @@ async function doRepo(url, plugins) {
   }
 }
 
-async function fixplugin(plugin){
+function fixplugin(plugin){
     if(plugin.internalName === "SimpleHeels"){
       plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
     }
