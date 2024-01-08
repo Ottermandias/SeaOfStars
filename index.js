@@ -11,7 +11,7 @@ async function recoverPlugin(internalName) {
   }
 
   const oldRepo = JSON.parse(fs.readFileSync("./repo.json", "utf8"));
-  const plugin = oldRepo.find((x) => x.InternalName === internalName);
+  let plugin = oldRepo.find((x) => x.InternalName === internalName);
   if (!plugin) {
     console.error(`!!! ${plugin} not found in old repo`);
     process.exit(1);
@@ -30,7 +30,7 @@ async function doRepo(url, plugins) {
   }).then((res) => res.json());
 
   for (const internalName of plugins) {
-    const plugin = repo.find((x) => x.InternalName === internalName);
+    let plugin = repo.find((x) => x.InternalName === internalName);
     if (!plugin) {
       console.warn(`!!! ${plugin} not found in ${url}`);
       recoverPlugin(internalName);
@@ -51,6 +51,7 @@ async function fixplugin(plugin){
     if(plugin.internalName === "SimpleHeels"){
       plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
     }
+
     // Deletes the DownloadCount line
     if (plugin.DownloadCount !== undefined) {
       delete plugin.DownloadCount;
