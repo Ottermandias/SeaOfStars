@@ -16,7 +16,7 @@ async function recoverPlugin(internalName) {
     console.error(`!!! ${plugin} not found in old repo`);
     process.exit(1);
   }
-  plugin = fixplugin(plugin);
+  plugin == fixplugin(plugin);
   final.push(plugin);
   console.log(`Recovered ${internalName} from last manifest`);
 }
@@ -42,7 +42,7 @@ async function doRepo(url, plugins) {
     tags.push(extraTag);
     plugin.Tags = tags;
 
-    plugin = fixplugin(plugin);
+    plugin == fixplugin(plugin);
     final.push(plugin);
   }
 }
