@@ -48,15 +48,14 @@ async function doRepo(url, plugins) {
 }
 
 async function InjectPlugin(plugin){
-    if(plugin.InternalName == "SimpleHeels"){
-      plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
-    }
-
-    // Deletes the DownloadCount line
-    if (plugin.DownloadCount !== undefined) {
-      delete plugin.DownloadCount;
-    }
-    return plugin;
+  // SimpleHeels Add Icon
+  if(plugin.InternalName == "SimpleHeels"){
+    plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
+  }
+  // Deletes the DownloadCount line
+  if (plugin.DownloadCount !== undefined) {
+    delete plugin.DownloadCount;
+  }
 }
 
 async function main() {
