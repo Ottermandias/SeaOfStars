@@ -16,7 +16,7 @@ async function recoverPlugin(internalName) {
     console.error(`!!! ${plugin} not found in old repo`);
     process.exit(1);
   }
-  plugin == fixplugin(plugin);
+  InjectPlugin(plugin);
   final.push(plugin);
   console.log(`Recovered ${internalName} from last manifest`);
 }
@@ -42,12 +42,12 @@ async function doRepo(url, plugins) {
     tags.push(extraTag);
     plugin.Tags = tags;
 
-    plugin == fixplugin(plugin);
+    InjectPlugin(plugin);
     final.push(plugin);
   }
 }
 
-async function fixplugin(plugin){
+async function InjectPlugin(plugin){
     if(plugin.InternalName == "SimpleHeels"){
       plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
     }
