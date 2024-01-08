@@ -95,7 +95,8 @@
     "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.4.1.zip",
     "Tags": [
       "Sea Of Stars"
-    ]
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png"
   },
   {
     "Author": "Chirp",
@@ -190,30 +191,6 @@
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip"
-  },
-  {
-    "Author": "Asgard",
-    "Name": "XAT",
-    "Description": "Create and edit animations and cutscenes",
-    "InternalName": "XAT.Plugin",
-    "AssemblyVersion": "2023.10.3.2301",
-    "TestingAssemblyVersion": "2023.10.3.2301",
-    "RepoUrl": "https://github.com/AsgardXIV/XAT",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdate": 0,
-    "LoadPriority": 69420,
-    "LoadRequiredState": 2,
-    "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-    "DownloadLinkTesting": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-    "DownloadLinkUpdate": "https://github.com/AsgardXIV/XAT/releases/download/v2023.10.3.2301/XAT-Dalamud-Plugin.zip",
-    "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/XAT/master/Resources/Images/XATIcon.png",
-    "Tags": [
-      "Sea Of Stars"
-    ]
   },
   {
     "Author": "Taurenkey",
