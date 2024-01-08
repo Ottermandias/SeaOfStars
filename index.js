@@ -44,6 +44,11 @@ async function doRepo(url, plugins) {
     const tags = plugin.Tags || [];
     tags.push(extraTag);
     plugin.Tags = tags;
+
+    if(plugin.internalName === "SimpleHeels"){
+      plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
+    }
+
     // Deletes the DownloadCount line
     if (plugin.DownloadCount !== undefined) {
       delete plugin.DownloadCount;
