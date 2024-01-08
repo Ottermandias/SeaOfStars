@@ -50,7 +50,7 @@ async function doRepo(url, plugins) {
 async function InjectPlugin(plugin){
   // SimpleHeels Add Icon
   if(plugin.InternalName == "SimpleHeels"){
-    plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
+    plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/SimpleHeels.png";
   }
   // Deletes the DownloadCount line
   if (plugin.DownloadCount !== undefined) {
