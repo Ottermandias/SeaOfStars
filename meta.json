@@ -32,10 +32,6 @@
     "plugins": ["BDTHPlugin"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/AsgardXIV/XAT/main/repo.json",
-    "plugins": ["XAT.Plugin"]
-  },
-  {
     "repo": "https://love.puni.sh/ment.json",
     "plugins": ["Artisan"]
   },
