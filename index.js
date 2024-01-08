@@ -16,10 +16,7 @@ async function recoverPlugin(internalName) {
     console.error(`!!! ${plugin} not found in old repo`);
     process.exit(1);
   }
-  // Deletes the DownloadCount line
-  if (plugin.DownloadCount !== undefined) {
-    delete plugin.DownloadCount;
-  }
+  plugin = fixplugin(plugin);
   final.push(plugin);
   console.log(`Recovered ${internalName} from last manifest`);
 }
@@ -45,16 +42,20 @@ async function doRepo(url, plugins) {
     tags.push(extraTag);
     plugin.Tags = tags;
 
+    plugin = fixplugin(plugin);
+    final.push(plugin);
+  }
+}
+
+async function fixplugin(plugin){
     if(plugin.internalName === "SimpleHeels"){
       plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/Simple%20Heels.png";
     }
-
     // Deletes the DownloadCount line
     if (plugin.DownloadCount !== undefined) {
       delete plugin.DownloadCount;
     }
-    final.push(plugin);
-  }
+    return plugin;
 }
 
 async function main() {
