@@ -193,7 +193,7 @@
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip"
   },
   {
-    "Author": "Taurenkey",
+    "Author": "Taurenkey, kawaii",
     "Name": "Artisan",
     "Punchline": "A 'simple' crafting plugin.",
     "Description": "The all-in-one crafting plugin.",
@@ -203,14 +203,15 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "LastUpdate": 1704821781356,
-    "TestingAssemblyVersion": "2.1.2.23",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-    "IsTestingExclusive": true,
-    "AssemblyVersion": "2.1.2.23",
+    "LastUpdate": 1701446932246,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+    "AssemblyVersion": "2.1.1.7",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
-    "Changelog": "",
+    "Changelog": "- Adds new \"Progress Priority CP Threshold\" under solver settings.\n- Attempt to fix FPS issues with the list editor on the ingredients tab.",
+    "TestingAssemblyVersion": "2.1.2.23",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
   },
   {
