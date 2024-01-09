@@ -48,9 +48,12 @@ async function doRepo(url, plugins) {
 }
 
 async function FixPlugin(plugin){
-  // SimpleHeels Add Icon
+  // Add Icon
   if(plugin.InternalName == "SimpleHeels"){
     plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/SimpleHeels.png";
+  }
+  if(plugin.InternalName == "AntiAfkKick-Dalamud"){
+    plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/AntiAFK.png";
   }
   // Deletes the DownloadCount line
   if (plugin.DownloadCount !== undefined) {
