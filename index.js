@@ -55,9 +55,15 @@ async function FixPlugin(plugin){
   if(plugin.InternalName == "AntiAfkKick-Dalamud"){
     plugin.IconUrl = "https://raw.githubusercontent.com/Murakumo-JP/SeaOfStars/main/icon/AntiAFK.png";
   }
-  // Deletes the DownloadCount line
+  // Deletes line
   if (plugin.DownloadCount !== undefined) {
     delete plugin.DownloadCount;
+  }
+  if(plugin.LastUpdate !== undefined) {
+    delete plugin.LastUpdate;  
+  }
+  if(plugin.LastUpdated !== undefined){
+    delete plugin.LastUpdated;
   }
 }
 

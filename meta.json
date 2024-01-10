@@ -37,11 +37,7 @@
   },
   {
     "repo": "https://love.puni.sh/ment.json",
-    "plugins": ["Artisan"]
-  },
-  {
-    "repo": "https://love.puni.sh/ment.json",
-    "plugins": ["AutoRetainer"]
+    "plugins": ["Artisan", "AutoRetainer"]
   },
   {
     "repo": "https://puni.sh/api/repository/veyn",
