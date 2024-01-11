@@ -129,8 +129,8 @@
     "InternalName": "PalettePlus",
     "Punchline": "Custom color palettes for FFXIV characters.",
     "Description": "Custom color palettes for FFXIV characters.",
-    "AssemblyVersion": "0.3.13",
-    "TestingAssemblyVersion": "0.3.13",
+    "AssemblyVersion": "0.3.14",
+    "TestingAssemblyVersion": "0.3.14",
     "RepoUrl": "https://github.com/chirpxiv/PalettePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -142,9 +142,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/chirpxiv/PalettePlus/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.13/latest.zip",
-    "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.13/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.13/latest.zip"
+    "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.14/latest.zip",
+    "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.14/latest.zip"
   },
   {
     "Author": "Chirp",
