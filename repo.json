@@ -125,29 +125,6 @@
   },
   {
     "Author": "Chirp",
-    "Name": "Palette+",
-    "InternalName": "PalettePlus",
-    "Punchline": "Custom color palettes for FFXIV characters.",
-    "Description": "Custom color palettes for FFXIV characters.",
-    "AssemblyVersion": "0.3.14",
-    "TestingAssemblyVersion": "0.3.14",
-    "RepoUrl": "https://github.com/chirpxiv/PalettePlus",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
-    "Tags": [
-      "PalettePlus",
-      "color",
-      "palette",
-      "chirp",
-      "Sea Of Stars"
-    ],
-    "IconUrl": "https://github.com/chirpxiv/PalettePlus/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.14/latest.zip",
-    "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.14/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.14/latest.zip"
-  },
-  {
-    "Author": "Chirp",
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.",
