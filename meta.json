@@ -20,10 +20,6 @@
     "plugins": ["SimpleHeels"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
-    "plugins": ["PalettePlus"]
-  },
-  {
     "repo": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
     "plugins": ["Ktisis"]
   },
