@@ -206,7 +206,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-    "AssemblyVersion": "3.0.0.3",
+    "AssemblyVersion": "3.0.0.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
