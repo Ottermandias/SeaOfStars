@@ -1,7 +1,5 @@
 # Sea of Stars
 
-FFXIV Modding
-
 Original Code [Ottermandias](https://github.com/Ottermandias)
 
 ## Installing
