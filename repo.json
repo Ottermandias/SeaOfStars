@@ -210,7 +210,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
-    "TestingAssemblyVersion": "3.0.1.1",
+    "TestingAssemblyVersion": "3.0.2.8",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
   },
