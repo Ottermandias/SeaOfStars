@@ -60,7 +60,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Developed mainly by Chirp. 
 - Support can be found on [Ktisis' Discord](https://discord.gg/kUG3W8B8Ny).
 
-## [Brio](https://github.com/AsgardXIV/Brio)
+## [Brio](https://github.com/Etheirys/Brio)
 - A plugin to create additional characters and give you more options during posing in GPose. 
-- Developed by Asgard. 
+- Maintained and developed by Minmoose, originally developed by Asgard.
 - Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t).

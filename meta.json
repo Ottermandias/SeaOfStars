@@ -32,7 +32,7 @@
     "plugins": ["Ktisis"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/repo.json",
+    "repo": "https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json",
     "plugins": ["Brio"]
   }
 ]
