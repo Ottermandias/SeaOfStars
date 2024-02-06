@@ -42,7 +42,7 @@
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.1.0.4",
-    "TestingAssemblyVersion": "1.1.0.4",
+    "TestingAssemblyVersion": "1.1.0.5",
     "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -50,7 +50,7 @@
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.1.0.4/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.1.0.4/Glamourer.zip",
-    "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.1.0.4/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.1.0.5/Glamourer.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   },
   {
@@ -226,10 +226,10 @@
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-    "AssemblyVersion": "4.2.5.4",
+    "AssemblyVersion": "4.2.5.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
-    "Changelog": "",
+    "Changelog": "- Emergency anti-footgun update",
     "TestingAssemblyVersion": "4.2.5.5",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
