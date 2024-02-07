@@ -20,10 +20,6 @@
     "plugins": ["SimpleHeels"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
-    "plugins": ["PalettePlus"]
-  },
-  {
     "repo": "https://repo.heliosphere.app",
     "plugins": ["heliosphere-plugin"]
   },
