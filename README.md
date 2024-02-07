@@ -39,11 +39,6 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Maintained by Stoia. 
 - Support can be found on [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
 
-## [Palette+](https://github.com/chirpxiv/PalettePlus)
-- A plugin to improve color customization beyond the game-provided color options. 
-- Developed by Chirp. 
-- Support can be found on [Ktisis' Discord](https://discord.gg/kUG3W8B8Ny).
-
 ## [SimpleHeels](https://github.com/Caraxi/SimpleHeels)
 - A plugin to offset and adjust your characters height according when wearing specific shoes according to their heels. 
 - Developed by Caraxi, inspired by LeonBlade.
@@ -64,3 +59,10 @@ No Plugins will be installed, you have just made them available. You can now sel
 - A plugin to create additional characters and give you more options during posing in GPose. 
 - Maintained and developed by Minmoose, originally developed by Asgard.
 - Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
+
+### Discontinued
+
+## [Palette+](https://github.com/chirpxiv/PalettePlus)
+- A plugin to improve color customization beyond the game-provided color options. 
+- Developed by Chirp. 
+- Support can be found on [Ktisis' Discord](https://discord.gg/kUG3W8B8Ny).
