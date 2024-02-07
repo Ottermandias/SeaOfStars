@@ -65,4 +65,4 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Palette+](https://github.com/chirpxiv/PalettePlus)
 - A plugin to improve color customization beyond the game-provided color options. 
 - Developed by Chirp. 
-- Support can be found on [Ktisis' Discord](https://discord.gg/kUG3W8B8Ny).
+- Functionality subsumed by Glamourer.
