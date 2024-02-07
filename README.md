@@ -60,7 +60,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Maintained and developed by Minmoose, originally developed by Asgard.
 - Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
 
-### Discontinued
+# Discontinued
 
 ## [Palette+](https://github.com/chirpxiv/PalettePlus)
 - A plugin to improve color customization beyond the game-provided color options. 
