@@ -226,10 +226,10 @@
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-    "AssemblyVersion": "4.2.5.7",
+    "AssemblyVersion": "4.2.5.8",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
-    "Changelog": "Less scary popup message",
+    "Changelog": "/ays m e/d",
     "TestingAssemblyVersion": "4.2.5.5",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
