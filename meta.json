@@ -30,5 +30,9 @@
   {
     "repo": "https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json",
     "plugins": ["Brio"]
+  },
+  {
+    "repo": "https://github.com/Limiana/DynamicBridgeStandalone/blob/main/pluginmaster.json",
+    "plugins": ["DynamicBridge"]
   }
 ]
