@@ -61,7 +61,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
 
 ## [Dynamic Bridge](https://github.com/Limiana/DynamicBridgeStandalone)
-- A plugin to automize certain appearance changes through rule-based presets.
+- A plugin to automate certain appearance changes through rule-based presets.
 - Automation options for Glamourer, Customize+ and Honorific.
 - Maintained and developed by Limiana and Asuna Tsuki.
 - Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t)
