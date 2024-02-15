@@ -32,7 +32,7 @@
     "plugins": ["Brio"]
   },
   {
-    "repo": "https://github.com/Limiana/DynamicBridgeStandalone/blob/main/pluginmaster.json",
+    "repo": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
     "plugins": ["DynamicBridge"]
   }
 ]
