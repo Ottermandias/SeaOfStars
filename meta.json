@@ -33,7 +33,7 @@
   },
   {
     "repo": "https://love.puni.sh/ment.json",
-    "plugins": ["Artisan", "AutoRetainer"]
+    "plugins": ["Artisan", "AutoRetainer", "PandorasBox"]
   },
   {
     "repo": "https://puni.sh/api/repository/veyn",

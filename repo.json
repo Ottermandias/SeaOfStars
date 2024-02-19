@@ -235,6 +235,28 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
   {
+    "Author": "Taurenkey, croizat",
+    "Name": "Pandora's Box",
+    "Punchline": "Do you dare to open Pandora's Box?",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+    "Tags": [
+      "punish",
+      "plugin",
+      "Sea Of Stars"
+    ],
+    "InternalName": "PandorasBox",
+    "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+    "AssemblyVersion": "1.5.4.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "- New FATE Targeting Mode feature added",
+    "TestingAssemblyVersion": "1.5.4.1",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+  },
+  {
     "Author": "veyn",
     "Name": "V(ery) Island",
     "Punchline": "Automate island sanctuary activities",
