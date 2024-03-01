@@ -66,6 +66,11 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Maintained and developed by Limiana and Asuna Tsuki.
 - Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t)
 
+## [Moodles](https://github.com/kawaii/Moodles/)
+- Design and apply your own status effects with custom formatting, durations, and other accoutrements.
+- Status effects can be synchronized via Mare Synchronos.
+- Support is currently given via [github issues](https://github.com/kawaii/Moodles/issues).
+
 # Discontinued
 
 ## [Palette+](https://github.com/chirpxiv/PalettePlus)
