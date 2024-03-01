@@ -34,5 +34,9 @@
   {
     "repo": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
     "plugins": ["DynamicBridge"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/kawaii/Moodles/main/repo.json",
+    "plugins": ["Moodles"]
   }
 ]
