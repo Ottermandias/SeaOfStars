@@ -36,7 +36,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 
 ## [Customize+](https://github.com/Aether-Tools/CustomizePlus)
 - A plugin to scale your characters body parts according to your desires. 
-- Maintained by Stoia. 
+- Maintained and developed mainly by Risa.
 - Support can be found on [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
 
 ## [SimpleHeels](https://github.com/Caraxi/SimpleHeels)
