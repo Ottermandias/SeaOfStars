@@ -124,9 +124,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1715991255",
-    "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.9.3.2.zip",
-    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.9.3.2.zip",
-    "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.9.3.2.zip",
+    "DownloadLinkInstall": "http://repo.caraxian.com/plugins/SimpleHeels/0.9.3.2.zip",
+    "DownloadLinkTesting": "http://repo.caraxian.com/plugins/SimpleHeels/0.9.3.2.zip",
+    "DownloadLinkUpdate": "http://repo.caraxian.com/plugins/SimpleHeels/0.9.3.2.zip",
     "Tags": [
       "Sea Of Stars"
     ]
