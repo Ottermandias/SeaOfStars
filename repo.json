@@ -134,7 +134,7 @@
   {
     "AcceptsFeedback": true,
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.27.0.0",
+    "AssemblyVersion": "1.27.1.0",
     "Author": "Anna",
     "CanUnloadAsync": false,
     "Changelog": "- Handle download timeouts properly\n- Add option to copy error information when downloads error\n- Switch to the new download statistics method",
@@ -147,7 +147,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1717241986,
+    "LastUpdate": 1717281696,
     "LoadPriority": 0,
     "LoadRequiredState": 0,
     "LoadSync": false,
