@@ -167,8 +167,8 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.",
-    "AssemblyVersion": "0.2.23",
-    "TestingAssemblyVersion": "0.2.23",
+    "AssemblyVersion": "0.2.24",
+    "TestingAssemblyVersion": "0.2.24",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -179,9 +179,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.23/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.23/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.23/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.24/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.24/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.24/latest.zip"
   },
   {
     "Author": "Asgard, Minmoose and Contributors",
