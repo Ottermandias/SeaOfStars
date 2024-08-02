@@ -71,6 +71,11 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Status effects can be synchronized via Mare Synchronos.
 - Support is currently given via [github issues](https://github.com/kawaii/Moodles/issues).
 
+## [Pet Nicknames](https://github.com/Glyceri/FFXIVPetRenamer)
+- Give your minions, Carbuncles and Faeries cute nicknames and share them with your friends.
+- Nicknames can be synchronized via Mare Synchronos (Soon™).
+- Support is currently given via [github issues](https://github.com/Glyceri/FFXIVPetRenamer/issues).
+
 # Discontinued
 
 ## [Palette+](https://github.com/chirpxiv/PalettePlus)
