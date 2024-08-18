@@ -164,7 +164,7 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.0.0.0",
+    "TestingAssemblyVersion": "2.0.1.0",
     "TestingChangelog": "- Switch to using original file paths",
     "TestingDalamudApiLevel": 10
   },
