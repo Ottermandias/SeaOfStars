@@ -134,11 +134,9 @@
     ]
   },
   {
-    "AcceptsFeedback": true,
     "ApplicableVersion": "any",
     "AssemblyVersion": "1.28.6.0",
     "Author": "Anna",
-    "CanUnloadAsync": false,
     "Changelog": "- Update for Dawntrail",
     "DalamudApiLevel": 10,
     "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Partial downloads to get only the features you want\n- Automatic updates\n- Version history\n- Mod changelogs\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
@@ -151,9 +149,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1723311972,
-    "LoadPriority": 0,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
