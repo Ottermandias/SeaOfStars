@@ -159,8 +159,8 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.0.1.0",
-    "TestingChangelog": "- Switch to using original file paths",
+    "TestingAssemblyVersion": "2.0.2.0",
+    "TestingChangelog": "- Fix issues with case-sensitivity",
     "TestingDalamudApiLevel": 10
   },
   {
