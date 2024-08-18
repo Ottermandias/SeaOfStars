@@ -142,8 +142,9 @@
     "Changelog": "- Update for Dawntrail",
     "DalamudApiLevel": 10,
     "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Partial downloads to get only the features you want\n- Automatic updates\n- Version history\n- Mod changelogs\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
+    "DownloadCount": 9001,
     "DownloadLinkInstall": "https://repo.heliosphere.app/latest.zip",
-    "DownloadLinkTesting": "https://repo.heliosphere.app/latest.zip",
+    "DownloadLinkTesting": "https://repo.heliosphere.app/testing.zip",
     "DownloadLinkUpdate": "https://repo.heliosphere.app/latest.zip",
     "IconUrl": "https://repo.heliosphere.app/icon.png",
     "InternalName": "heliosphere-plugin",
@@ -162,7 +163,10 @@
       "penumbra",
       "textools",
       "Sea Of Stars"
-    ]
+    ],
+    "TestingAssemblyVersion": "2.0.0.0",
+    "TestingChangelog": "- Switch to using original file paths",
+    "TestingDalamudApiLevel": 10
   },
   {
     "Author": "Chirp",
