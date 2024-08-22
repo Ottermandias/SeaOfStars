@@ -159,8 +159,8 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.0.2.0",
-    "TestingChangelog": "- Fix issues with case-sensitivity",
+    "TestingAssemblyVersion": "2.0.3.0",
+    "TestingChangelog": "- Fix installs on filesystems that don't support hard links\n- Fix potential crashes from fresh installs of UI mods using the last version\n- Remove any empty directories as a result of updates",
     "TestingDalamudApiLevel": 10
   },
   {
