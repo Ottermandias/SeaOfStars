@@ -159,8 +159,8 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.0.6.0",
-    "TestingChangelog": "- Fix an issue with extra file detection with files without extensions\n- Fix updates being installed as new mods",
+    "TestingAssemblyVersion": "2.0.7.0",
+    "TestingChangelog": "- Fix an issue with mods using invalid paths",
     "TestingDalamudApiLevel": 10
   },
   {
