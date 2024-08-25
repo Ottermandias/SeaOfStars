@@ -159,8 +159,8 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.0.7.0",
-    "TestingChangelog": "- Fix an issue with mods using invalid paths",
+    "TestingAssemblyVersion": "2.0.8.0",
+    "TestingChangelog": "- Fix more install issues",
     "TestingDalamudApiLevel": 10
   },
   {
