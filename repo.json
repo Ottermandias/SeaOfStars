@@ -159,8 +159,8 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.0.8.0",
-    "TestingChangelog": "- Fix more install issues",
+    "TestingAssemblyVersion": "2.1.0.0",
+    "TestingChangelog": "- Show a window prompting to fix when multiple directories are found",
     "TestingDalamudApiLevel": 10
   },
   {
