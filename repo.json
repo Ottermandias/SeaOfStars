@@ -159,8 +159,8 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.2.0.0",
-    "TestingChangelog": "- Change how downloads work to prevent a possible race condition",
+    "TestingAssemblyVersion": "2.2.1.0",
+    "TestingChangelog": "- Fix an issue preventing updates from installing",
     "TestingDalamudApiLevel": 10
   },
   {
