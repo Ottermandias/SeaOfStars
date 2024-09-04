@@ -159,8 +159,8 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.2.1.0",
-    "TestingChangelog": "- Fix an issue preventing updates from installing",
+    "TestingAssemblyVersion": "2.2.2.0",
+    "TestingChangelog": "- Improve speed of installs and updates for very large mods\n- Make the download notification more accurate",
     "TestingDalamudApiLevel": 10
   },
   {
