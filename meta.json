@@ -38,5 +38,9 @@
   {
     "repo": "https://raw.githubusercontent.com/kawaii/Moodles/main/repo.json",
     "plugins": ["Moodles"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/Glyceri/FFXIVPetRenamer/main/PetNicknames.json",
+    "plugins": ["PetNicknames"]
   }
 ]
