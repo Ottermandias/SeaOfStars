@@ -136,7 +136,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "2.3.2.0",
+    "AssemblyVersion": "2.3.3.0",
     "Author": "Anna",
     "Changelog": "- Fix default settings on IMC groups",
     "DalamudApiLevel": 10,
@@ -149,7 +149,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1727475044,
+    "LastUpdate": 1730760272,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
