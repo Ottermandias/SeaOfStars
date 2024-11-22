@@ -244,10 +244,10 @@
     "Punchline": "Crippling depression now in the form of a debuff, kupo!",
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
-    "DalamudApiLevel": 10,
-    "AssemblyVersion": "1.0.0.27",
-    "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/1.0.0.27/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/1.0.0.27/Moodles.zip",
+    "DalamudApiLevel": 11,
+    "AssemblyVersion": "1.0.0.28",
+    "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/1.0.0.28/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/1.0.0.28/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ]
