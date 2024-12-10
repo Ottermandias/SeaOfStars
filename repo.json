@@ -245,9 +245,9 @@
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
     "DalamudApiLevel": 11,
-    "AssemblyVersion": "1.0.0.37",
-    "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/1.0.0.37/Moodles.zip",
-    "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/1.0.0.37/Moodles.zip",
+    "AssemblyVersion": "1.0.0.38",
+    "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/1.0.0.38/Moodles.zip",
+    "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/1.0.0.38/Moodles.zip",
     "Tags": [
       "Sea Of Stars"
     ]
