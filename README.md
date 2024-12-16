@@ -37,7 +37,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Customize+](https://github.com/Aether-Tools/CustomizePlus)
 - A plugin to scale your characters body parts according to your desires. 
 - Maintained and developed mainly by Risa.
-- Support can be found on [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
+- Support can be found on [Aetherworks Discord](https://discord.gg/KvGJCCnG8t).
 
 ## [SimpleHeels](https://github.com/Caraxi/SimpleHeels)
 - A plugin to offset and adjust your characters height according when wearing specific shoes according to their heels. 
@@ -58,13 +58,13 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Brio](https://github.com/Etheirys/Brio)
 - A plugin to create additional characters and give you more options during posing in GPose. 
 - Maintained and developed by Minmoose, originally developed by Asgard.
-- Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t).
+- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t).
 
 ## [Dynamic Bridge](https://github.com/Limiana/DynamicBridgeStandalone)
 - A plugin to automate certain appearance changes through rule-based presets.
 - Automation options for Glamourer, Customize+ and Honorific.
 - Maintained and developed by Limiana and Asuna Tsuki.
-- Support can be found on the [XIVTools Discord](https://discord.gg/KvGJCCnG8t)
+- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t)
 
 ## [Moodles](https://github.com/kawaii/Moodles/)
 - Design and apply your own status effects with custom formatting, durations, and other accoutrements.
