@@ -36,7 +36,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 
 ## [Customize+](https://github.com/Aether-Tools/CustomizePlus)
 - A plugin to scale your characters body parts according to your desires. 
-- Maintained and developed mainly by Risa.
+- Maintained and developed by Risa.
 - Support can be found on [Aetherworks Discord](https://discord.gg/KvGJCCnG8t).
 
 ## [SimpleHeels](https://github.com/Caraxi/SimpleHeels)
@@ -64,12 +64,13 @@ No Plugins will be installed, you have just made them available. You can now sel
 - A plugin to automate certain appearance changes through rule-based presets.
 - Automation options for Glamourer, Customize+ and Honorific.
 - Maintained and developed by Limiana and Asuna Tsuki.
-- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t)
+- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t).
 
 ## [Moodles](https://github.com/kawaii/Moodles/)
 - Design and apply your own status effects with custom formatting, durations, and other accoutrements.
 - Status effects can be synchronized via Mare Synchronos.
-- Support is currently given via [github issues](https://github.com/kawaii/Moodles/issues).
+- Maintained by Glyceri, Originally Developed by kawaii. 
+- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t) or via [github issues](https://github.com/kawaii/Moodles/issues).
 
 # Discontinued
 
