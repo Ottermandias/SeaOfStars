@@ -136,7 +136,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "2.3.4.0",
+    "AssemblyVersion": "3.0.0.0",
     "Author": "Anna",
     "Changelog": "- Update for API 11\n- Add experimental option to use Recycle Bin",
     "DalamudApiLevel": 11,
@@ -149,7 +149,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1732026012,
+    "LastUpdate": 1737660636,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
