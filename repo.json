@@ -136,7 +136,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "3.0.2.0",
+    "AssemblyVersion": "3.0.3.0",
     "Author": "Anna",
     "Changelog": "- API 12",
     "DalamudApiLevel": 12,
@@ -149,7 +149,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1743031620,
+    "LastUpdate": 1743040910,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
