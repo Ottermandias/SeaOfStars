@@ -247,7 +247,7 @@
     "Punchline": "Crippling depression now in the form of a debuff, kupo!",
     "RepoUrl": "https://github.com/kawaii/Moodles",
     "AcceptsFeedback": false,
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "AssemblyVersion": "1.0.0.44",
     "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/1.0.0.44/Moodles.zip",
     "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/1.0.0.44/Moodles.zip",
