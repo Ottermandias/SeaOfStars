@@ -6,7 +6,7 @@
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Penumbra",
     "AssemblyVersion": "1.4.0.1",
-    "TestingAssemblyVersion": "1.4.0.5",
+    "TestingAssemblyVersion": "1.4.0.6",
     "RepoUrl": "https://github.com/xivdev/Penumbra",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -19,7 +19,7 @@
     "LoadRequiredState": 2,
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/1.4.0.1/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.4.0.5/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.4.0.6/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/1.4.0.1/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
     "Tags": [
@@ -45,8 +45,8 @@
       "Sea Of Stars"
     ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "1.4.0.2",
-    "TestingAssemblyVersion": "1.4.0.2",
+    "AssemblyVersion": "1.4.0.3",
+    "TestingAssemblyVersion": "1.4.0.3",
     "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -55,9 +55,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.2/Glamourer.zip",
-    "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.2/Glamourer.zip",
-    "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.2/Glamourer.zip",
+    "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.3/Glamourer.zip",
+    "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.3/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.4.0.3/Glamourer.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   },
   {
