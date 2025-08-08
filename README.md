@@ -25,7 +25,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Heliosphere](https://heliosphere.app)
 - A mod archive site with accompanying plugin interfacing directly with Penumbra to make installing and updating mods easy and simple. 
 - Developed by Anna. 
-- Support can be found on [Heliospheres Discord](https://discord.gg/3swpspafy2).
+- Support can be found on the [Heliosphere Forums](https://forums.heliosphere.app/forums/support.6/).
 - This plugin requires Penumbra.
 
 ## [Glamourer](https://github.com/Ottermandias/Glamourer)
