@@ -258,4 +258,21 @@
       "Sea Of Stars"
     ]
   }
+  {
+    "Author": "Karou",
+    "Name": "Texture Overlayer",
+    "InternalName": "TextureOverlayer",
+    "AssemblyVersion":"0.5.0",
+    "Punchline": "Overlay textures in-game quickly",
+    "Description": "A tool that allows you to non-destructively edit textures.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Glorou/TextureOverlayer",
+    "DalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/Glorou/TextureOverlayer/releases/download/v0.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Glorou/TextureOverlayer/releases/download/v0.5.0/latest.zip",
+    "Changelog": "## What's Changed\r\n* Fixed for API 13, added some fail safes in case this loads before penumbra  does, nothing changes from a users pov",
+        "Tags": [
+      "Sea Of Stars"
+    ]
+  
 ]
