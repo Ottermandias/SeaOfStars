@@ -137,7 +137,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "4.2.2.0",
+    "AssemblyVersion": "4.2.3.0",
     "Author": "Anna",
     "Changelog": "- Update for new Dalamud release",
     "DalamudApiLevel": 13,
@@ -150,7 +150,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1754571836,
+    "LastUpdate": 1754761728,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
