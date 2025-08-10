@@ -38,7 +38,7 @@
   {
     "repo": "https://raw.githubusercontent.com/kawaii/Moodles/main/repo.json",
     "plugins": ["Moodles"]
-  }
+  },
   {
     "repo": "https://karou.ca/xiv/repo.json",
     "plugins": ["TextureOverlayer"]
