@@ -254,6 +254,7 @@
     "AssemblyVersion": "1.0.0.45",
     "DownloadLinkInstall": "https://github.com/kawaii/Moodles/releases/download/1.0.0.45/Moodles.zip",
     "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/1.0.0.45/Moodles.zip",
+    "IconUrl": "https://raw.githubusercontent.com/kawaii/Moodles/main/images/icon.png",
     "Tags": [
       "Sea Of Stars"
     ]
