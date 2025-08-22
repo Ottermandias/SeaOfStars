@@ -61,28 +61,6 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   },
   {
-    "Author": "darkarchon",
-    "Name": "Mare Synchronos",
-    "InternalName": "MareSynchronos",
-    "AssemblyVersion": "0.11.22",
-    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Penumbra-Sync/client",
-    "Tags": [
-      "customization",
-      "Sea Of Stars"
-    ],
-    "DalamudApiLevel": 13,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/images/icon.png",
-    "Punchline": "Let others see you as you see yourself.",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.11.22.zip",
-    "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.11.22.zip",
-    "DownloadLinkUpdate": "https://cf.maresynchronos.com/update/0.11.22.zip"
-  },
-  {
     "Author": "Risa",
     "Name": "Customize+",
     "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
