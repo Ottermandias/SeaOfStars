@@ -68,12 +68,12 @@ No Plugins will be installed, you have just made them available. You can now sel
 
 # Discontinued
 
-## [Palette+]
+## Palette+
 - A plugin to improve color customization beyond the game-provided color options. 
 - Developed by Chirp. 
 - Functionality subsumed by Glamourer.
 
-## [Mare Synchronos]
+## Mare Synchronos
 - A plugin to synchronize and download mods and appearances between friends automatically. 
 - Developed by darkarchon. 
 - This plugin requires Penumbra and Glamourer, and interfaces with Customize+, Palette+, SimpleHeels and the Dalamud-official-repo plugin Honorific.
