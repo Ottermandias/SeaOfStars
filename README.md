@@ -44,12 +44,6 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Developed by Caraxi, inspired by LeonBlade.
 - Support can be found on [Caraxi's Discord](https://discord.gg/eXx7HdMkrU).
 
-## [Mare Synchronos](https://github.com/Penumbra-Sync/client)
-- A plugin to synchronize and download mods and appearances between friends automatically. 
-- Developed by darkarchon. 
-- Support can be found on [Mares Discord](https://discord.gg/5HVveFefcB).
-- This plugin requires Penumbra and Glamourer, and interfaces with Customize+, Palette+, SimpleHeels and the Dalamud-official-repo plugin Honorific.
-
 ## [Ktisis](https://github.com/ktisis-tools/Ktisis)
 - A plugin to manipulate your character and their positioning, stance and animation while posing in GPose. 
 - Developed mainly by Chirp. 
@@ -78,3 +72,9 @@ No Plugins will be installed, you have just made them available. You can now sel
 - A plugin to improve color customization beyond the game-provided color options. 
 - Developed by Chirp. 
 - Functionality subsumed by Glamourer.
+
+## [Mare Synchronos](https://github.com/Penumbra-Sync/client)
+- A plugin to synchronize and download mods and appearances between friends automatically. 
+- Developed by darkarchon. 
+- Support can be found on [Mares Discord](https://discord.gg/5HVveFefcB).
+- This plugin requires Penumbra and Glamourer, and interfaces with Customize+, Palette+, SimpleHeels and the Dalamud-official-repo plugin Honorific.
