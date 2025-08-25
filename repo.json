@@ -61,7 +61,7 @@
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   },
   {
-    "Author": "Risa",
+    "Author": "Customize+ Contributors",
     "Name": "Customize+",
     "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
@@ -79,14 +79,13 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.0.7.27/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.0.7.27/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.0.7.27/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/testing_2.0.7.27/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
     "Tags": [
       "Anamnesis",
       "Customization",
       "Appearance",
       "Character",
-      "Risa",
       "Aether Tools",
       "Sea Of Stars"
     ]
