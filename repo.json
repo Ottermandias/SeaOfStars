@@ -114,7 +114,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "4.4.1.0",
+    "AssemblyVersion": "4.4.2.0",
     "Author": "Anna",
     "Changelog": "- Add a Support tab to the main window\n- Make errors contain better IDs\n- Reject installs to networked locations",
     "DalamudApiLevel": 13,
@@ -127,7 +127,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1757106920,
+    "LastUpdate": 1757112456,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
