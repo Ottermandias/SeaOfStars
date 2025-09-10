@@ -95,10 +95,12 @@
     "Name": "Simple Heels",
     "InternalName": "SimpleHeels",
     "AssemblyVersion": "0.10.7.10",
+    "TestingAssemblyVersion": "0.11.0.0",
     "Description": "Adjust the position of your character model",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
     "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -106,7 +108,7 @@
     "Punchline": "Adjust the position of your character model",
     "LastUpdate": 1757407491,
     "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.10.7.10.zip",
-    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.10.7.10.zip",
+    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.11.0.0.zip",
     "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.10.7.10.zip",
     "Tags": [
       "Sea Of Stars"
