@@ -138,9 +138,9 @@
       "textools",
       "Sea Of Stars"
     ],
-    "TestingAssemblyVersion": "2.3.0.0",
-    "TestingChangelog": "- Fix a possible error in the multiple directory warning\n- Fix updates for mods with duplicated files\n- Add a first-time-user setup window to make onboarding easier",
-    "TestingDalamudApiLevel": 10
+    "TestingAssemblyVersion": "4.5.1.0",
+    "TestingChangelog": "- Listen only on IPv4 localhost",
+    "TestingDalamudApiLevel": 13
   },
   {
     "Author": "Chirp, Cazzar, Bwuny and contributors",
