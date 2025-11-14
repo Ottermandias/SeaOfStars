@@ -139,7 +139,7 @@
       "Sea Of Stars"
     ],
     "TestingAssemblyVersion": "4.5.1.0",
-    "TestingChangelog": "- Listen only on IPv4 localhost",
+    "TestingChangelog": "- Undo last change",
     "TestingDalamudApiLevel": 13
   },
   {
