@@ -68,7 +68,7 @@
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "2.1.1.2",
-    "TestingAssemblyVersion": "2.1.1.6",
+    "TestingAssemblyVersion": "2.1.1.7",
     "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -80,7 +80,7 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.1.1.2/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.1.1.2/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/testing_2.1.1.6/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/testing_2.1.1.7/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
     "Tags": [
       "Anamnesis",
@@ -150,8 +150,8 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.",
-    "AssemblyVersion": "0.2.31.1",
-    "TestingAssemblyVersion": "0.3.18.1",
+    "AssemblyVersion": "0.2.31.2",
+    "TestingAssemblyVersion": "0.3.18.2",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -163,9 +163,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.31.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.3.18.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.31.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.31.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.3.18.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.31.2/latest.zip"
   },
   {
     "Author": "Minmoose, Asgard and Contributors",
