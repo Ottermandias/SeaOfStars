@@ -146,12 +146,12 @@
     "TestingDalamudApiLevel": 13
   },
   {
-    "Author": "Chirp, Cazzar, Bwuny and contributors",
+    "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.",
-    "AssemblyVersion": "0.2.31.3",
-    "TestingAssemblyVersion": "0.3.20.0",
+    "AssemblyVersion": "0.4.0.0",
+    "TestingAssemblyVersion": "0.4.0.0",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -163,9 +163,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.31.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.3.20.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.31.3/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.0/latest.zip"
   },
   {
     "Author": "Minmoose, Asgard and Contributors",
