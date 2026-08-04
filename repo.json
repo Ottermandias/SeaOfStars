@@ -117,7 +117,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "4.10.2.0",
+    "AssemblyVersion": "4.10.3.0",
     "Author": "Anna",
     "Changelog": "- Fix an issue wherein certain mods would not download properly\n- Fix an issue wherein certain mods could trigger a Penumbra bug and crash the game",
     "DalamudApiLevel": 15,
@@ -130,7 +130,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1785856086,
+    "LastUpdate": 1785858414,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
