@@ -150,8 +150,8 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.",
-    "AssemblyVersion": "0.4.0.5",
-    "TestingAssemblyVersion": "0.4.0.5",
+    "AssemblyVersion": "0.4.0.6",
+    "TestingAssemblyVersion": "0.4.0.6",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -163,9 +163,9 @@
       "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.6/latest.zip"
   },
   {
     "Author": "Minmoose, Asgard and Contributors",
@@ -177,7 +177,7 @@
     "TestingAssemblyVersion": "0.8.0.11",
     "RepoUrl": "https://github.com/Etheirys/Brio",
     "ApplicableVersion": "any",
-    "DownloadCount": 2368750,
+    "DownloadCount": 2369295,
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.8.0.11/Brio.zip",
