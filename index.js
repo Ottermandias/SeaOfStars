@@ -21,7 +21,18 @@ async function recoverPlugin(internalName) {
   console.log(`Recovered ${internalName} from last manifest`);
 }
 
+function assertSafeRepoUrl(url) {
+  const { protocol, hostname } = new URL(url);
+  if (protocol !== "https:") {
+    throw new Error(`Refusing non-https repo URL: ${url}`);
+  }
+  if (/^(\d{1,3}\.){3}\d{1,3}$/.test(hostname) || hostname === "localhost" || hostname.endsWith(".local")) {
+    throw new Error(`Refusing repo URL with disallowed host: ${url}`);
+  }
+}
+
 async function doRepo(url, plugins) {
+  assertSafeRepoUrl(url);
   console.log(`Fetching ${url}...`);
   const repo = await fetch(url, {
       headers: {
