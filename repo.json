@@ -117,7 +117,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "4.10.6.0",
+    "AssemblyVersion": "4.10.7.0",
     "Author": "Anna",
     "Changelog": "- Fix missing metadata keys in downloaded mods",
     "DalamudApiLevel": 15,
@@ -130,7 +130,7 @@
     "InternalName": "heliosphere-plugin",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1789778232,
+    "LastUpdate": 1789801914,
     "Name": "Heliosphere",
     "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
     "RepoUrl": "https://heliosphere.app/",
