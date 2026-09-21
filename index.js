@@ -27,6 +27,7 @@ async function doRepo(url, plugins) {
       headers: {
               'user-agent': 'SeaOfStars/1.0.0',
       },
+      signal: AbortSignal.timeout(30_000),
   }).then((res) => res.json());
 
   for (const internalName of plugins) {
